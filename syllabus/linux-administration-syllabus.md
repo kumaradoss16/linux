@@ -4,7 +4,7 @@ Roadmap for System & Network Engineers · Beginner to Advanced
 
 Based on your uploaded Linux topic list and the additional infrastructure administration modules, here is the complete 28-topic Linux roadmap. It covers Linux fundamentals, system administration, networking, security, automation, server management, and troubleshooting.
 
-## Phase 1 — Linux Fundamentals
+## Phase 1: Linux Fundamentals
 
 01–05 · Foundation
 
@@ -64,7 +64,7 @@ Based on your uploaded Linux topic list and the additional infrastructure admini
 
 * `sudo` and privilege management
 
-## Phase 2 — Processes and System Administration
+## Phase 2: Processes and System Administration
 
 06–10 · Core administration
 
@@ -128,7 +128,7 @@ Based on your uploaded Linux topic list and the additional infrastructure admini
 
 * Boot failures and recovery
 
-## Phase 3 — Package Management and Software
+## Phase 3: Package Management and Software
 
 11–13 · Software administration
 
@@ -168,7 +168,7 @@ Based on your uploaded Linux topic list and the additional infrastructure admini
 
 * Patch verification and maintenance windows
 
-## Phase 4 — Linux Networking and Remote Access
+## Phase 4: Linux Networking and Remote Access
 
 14–18 · Essential for System & Network Engineers
 
@@ -240,7 +240,7 @@ Based on your uploaded Linux topic list and the additional infrastructure admini
 
 * DNS/DHCP troubleshooting
 
-## Phase 5 — Bash and Automation
+## Phase 5: Bash and Automation
 
 19–20 · Operational automation
 
@@ -274,7 +274,7 @@ Based on your uploaded Linux topic list and the additional infrastructure admini
 
 * Idempotent scripts and logging
 
-## Phase 6 — Storage, Services and Databases
+## Phase 6: Storage, Services and Databases
 
 21–24 · Server operations
 
@@ -332,7 +332,7 @@ Based on your uploaded Linux topic list and the additional infrastructure admini
 
 * Backup retention and recovery planning
 
-## Phase 7 — Performance, Logging and Troubleshooting
+## Phase 7: Performance, Logging and Troubleshooting
 
 25–27 · Advanced operations
 
@@ -380,7 +380,7 @@ Based on your uploaded Linux topic list and the additional infrastructure admini
 
 * Evidence collection and incident documentation
 
-## Phase 8 — Containers and Production Readiness
+## Phase 8: Containers and Production Readiness
 
 28 · Modern infrastructure
 

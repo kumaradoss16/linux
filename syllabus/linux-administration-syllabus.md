@@ -402,26 +402,6 @@ Based on your uploaded Linux topic list and the additional infrastructure admini
 
 <img width="445" height="342" alt="image" src="https://github.com/user-attachments/assets/5402fa2a-76ec-44f7-af81-569247aa113b" />
 
-## Recommended learning order
-
-Stage 1 — Linux Administrator
-
-Topics 1–13
-
-Learn the CLI, filesystem, users, permissions, processes, services, packages and patching.
-
-Stage 2 — Linux System & Network Engineer
-
-Topics 14–24
-
-Configure networking, secure SSH, manage firewalls, operate servers, administer storage and automate tasks.
-
-Stage 3 — Production Operations
-
-Topics 25–28
-
-Diagnose incidents, analyze performance, manage logs and operate containers.
-
 My recommendation: Use Ubuntu Server for your primary hands-on labs, then learn the RPM ecosystem using Rocky Linux or another compatible distribution. Practice each topic in your existing VMware environment and document the objective, commands, expected output, troubleshooting steps and verification evidence.
 
 You do not need to master all 28 topics at once. Focus first on Linux administration, SSH, networking, systemd, storage, Bash and troubleshooting; these establish the practical foundation for your target role.

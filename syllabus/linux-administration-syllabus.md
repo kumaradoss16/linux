@@ -400,6 +400,8 @@ Based on your uploaded Linux topic list and the additional infrastructure admini
 
 * Linux namespaces and cgroups fundamentals
 
+<img width="445" height="342" alt="image" src="https://github.com/user-attachments/assets/5402fa2a-76ec-44f7-af81-569247aa113b" />
+
 ## Recommended learning order
 
 Stage 1 — Linux Administrator
